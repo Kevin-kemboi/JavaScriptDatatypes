@@ -1,1 +1,1 @@
-"# JavaScriptDatatypes" 
+"# JavaScriptDatatype" 
