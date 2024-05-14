@@ -1,1 +1,1 @@
-"# JavaScriptDatatype" 
+"# JavaScript" 
